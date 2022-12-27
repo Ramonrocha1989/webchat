@@ -11,7 +11,7 @@ var personalizedColors = {
    primaryButtonColor: "#FFFFFF",
    secondaryButtonBackground: "#6e7180",
    secondaryButtonColor: "#FFFFFF"
-};
+}; 
 
 var brandMessageBubbleColors = function (bgColor) {
     return {
